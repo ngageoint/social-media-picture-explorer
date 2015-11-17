@@ -12,6 +12,8 @@ The social media explorer backend is meant to be used in conjunction with the fr
 - 
 
 ## Screenshots
+
+![Image Clustering](https://raw.githubusercontent.com/ngageoint/social-media-explorer/master/screenshots/Tank%20Social%20Media%20Example.png)
 <p align=“center”>
 
 <a href=“https://raw.githubusercontent.com/ngageoint/social-media-explorer/master/screenshots/3D%20Deep%20Feature%20Clustering.png” target=“_blank”>
