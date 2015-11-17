@@ -10,6 +10,7 @@ The social media explorer backend is meant to be used in conjunction with the fr
 - Anaconda Python 
 - Nvidia DIGITS
 - 
+
 ## Screenshots
 <p align=“center”>
 	<img align=“center” src=“https://raw.githubusercontent.com/ngageoint/social-media-explorer/master/screenshots/3D%20Deep%20Feature%20Clustering.png” target=“_blank”>
