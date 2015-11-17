@@ -13,12 +13,19 @@ The social media explorer backend is meant to be used in conjunction with the fr
 
 ## Screenshots
 <p align=“center”>
-	<img align=“center” src=“https://raw.githubusercontent.com/ngageoint/social-media-explorer/master/screenshots/3D%20Deep%20Feature%20Clustering.png” target=“_blank”>
-<img align=“center” src=“https://raw.githubusercontent.com/ngageoint/social-media-explorer/master/screenshots/Mapping%20Georeferenced%20Images.png” alt=“Geolife data at city scale”><br/><br/>
-	<img align=“center” src=“https://raw.githubusercontent.com/ngageoint/social-media-explorer/master/screenshots/Tank%20Social%20Media%20Example.png target=“_blank”><br/><br/>
 
-<img align=“center” src=“https://raw.githubusercontent.com/ngageoint/social-media-explorer/master/screenshots/Utilizing%20Translation%20of%20Tweets.png” alt=“Geolife data at block scale”><br/><br/><br/>
-	
+<a href=“https://raw.githubusercontent.com/ngageoint/social-media-explorer/master/screenshots/3D%20Deep%20Feature%20Clustering.png” target=“_blank”>
+
+<img align=“center” src=“https://raw.githubusercontent.com/ngageoint/social-media-explorer/master/screenshots/3D%20Deep%20Feature%20Clustering.png” target=“_blank” alt=“Image Clustering”></a><br/><br/>
+
+<a href=“https://raw.githubusercontent.com/ngageoint/social-media-explorer/master/screenshots/Mapping%20Georeferenced%20Images.png” target=“_blank”>
+<img align=“center” src=“https://raw.githubusercontent.com/ngageoint/social-media-explorer/master/screenshots/Mapping%20Georeferenced%20Images.png” alt=“Mapping Cluster”></a><br/><br/>
+
+<a href=“https://raw.githubusercontent.com/ngageoint/social-media-explorer/master/screenshots/Tank%20Social%20Media%20Example.png” target=“_blank”>
+	<img align=“center” src=“https://raw.githubusercontent.com/ngageoint/social-media-explorer/master/screenshots/Tank%20Social%20Media%20Example.png” target=“_blank”></a><br/><br/>
+
+<a href=“https://raw.githubusercontent.com/ngageoint/social-media-explorer/master/screenshots/Utilizing%20Translation%20of%20Tweets.png” target=“_blank”>
+<img align=“center” src=“https://raw.githubusercontent.com/ngageoint/social-media-explorer/master/screenshots/Utilizing%20Translation%20of%20Tweets.png” alt=“Geolife data at block scale”></a><br/>	
 </p>
 ## Contributing
 
