@@ -14,21 +14,13 @@ The social media explorer backend is meant to be used in conjunction with the fr
 ## Screenshots
 
 ![Image Clustering](https://raw.githubusercontent.com/ngageoint/social-media-explorer/master/screenshots/3D%20Deep%20Feature%20Clustering.png?token=AG5ZcachjlCQF4Z9ThN6AtRHGOdfZlvwks5WVLMuwA%3D%3D)
-<p align=“center”>
 
-<a href=“https://raw.githubusercontent.com/ngageoint/social-media-explorer/master/screenshots/3D%20Deep%20Feature%20Clustering.png” target=“_blank”>
+![Mapping Image Cluster](https://raw.githubusercontent.com/ngageoint/social-media-explorer/master/screenshots/Mapping%20Georeferenced%20Images.png?token=AG5Zcc_afj-PXfvXPC_KFy7Ll0RqerF7ks5WVLNpwA%3D%3D)
 
-<img align=“center” src=“https://raw.githubusercontent.com/ngageoint/social-media-explorer/master/screenshots/3D%20Deep%20Feature%20Clustering.png” target=“_blank” alt=“Image Clustering”></a><br/><br/>
+![Tank Classification of Images](https://raw.githubusercontent.com/ngageoint/social-media-explorer/master/screenshots/Tank%20Social%20Media%20Example.png?token=AG5ZcWKByfDVpZexSd1bZeNK5V4aU1E2ks5WVLOJwA%3D%3D)
 
-<a href=“https://raw.githubusercontent.com/ngageoint/social-media-explorer/master/screenshots/Mapping%20Georeferenced%20Images.png” target=“_blank”>
-<img align=“center” src=“https://raw.githubusercontent.com/ngageoint/social-media-explorer/master/screenshots/Mapping%20Georeferenced%20Images.png” alt=“Mapping Cluster”></a><br/><br/>
+![Translation of Tweets](https://raw.githubusercontent.com/ngageoint/social-media-explorer/master/screenshots/Utilizing%20Translation%20of%20Tweets.png?token=AG5ZcWsHZgTqcUDGpgilunUfLR9HxSnXks5WVLPUwA%3D%3D)
 
-<a href=“https://raw.githubusercontent.com/ngageoint/social-media-explorer/master/screenshots/Tank%20Social%20Media%20Example.png” target=“_blank”>
-	<img align=“center” src=“https://raw.githubusercontent.com/ngageoint/social-media-explorer/master/screenshots/Tank%20Social%20Media%20Example.png” target=“_blank”></a><br/><br/>
-
-<a href=“https://raw.githubusercontent.com/ngageoint/social-media-explorer/master/screenshots/Utilizing%20Translation%20of%20Tweets.png” target=“_blank”>
-<img align=“center” src=“https://raw.githubusercontent.com/ngageoint/social-media-explorer/master/screenshots/Utilizing%20Translation%20of%20Tweets.png” alt=“Tweet Translation”></a><br/>	
-</p>
 ## Contributing
 
 All pull request contributions to this project will be released under the Apache 2.0 or compatible license.
