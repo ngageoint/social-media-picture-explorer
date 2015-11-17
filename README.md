@@ -25,7 +25,7 @@ The social media explorer backend is meant to be used in conjunction with the fr
 	<img align=“center” src=“https://raw.githubusercontent.com/ngageoint/social-media-explorer/master/screenshots/Tank%20Social%20Media%20Example.png” target=“_blank”></a><br/><br/>
 
 <a href=“https://raw.githubusercontent.com/ngageoint/social-media-explorer/master/screenshots/Utilizing%20Translation%20of%20Tweets.png” target=“_blank”>
-<img align=“center” src=“https://raw.githubusercontent.com/ngageoint/social-media-explorer/master/screenshots/Utilizing%20Translation%20of%20Tweets.png” alt=“Geolife data at block scale”></a><br/>	
+<img align=“center” src=“https://raw.githubusercontent.com/ngageoint/social-media-explorer/master/screenshots/Utilizing%20Translation%20of%20Tweets.png” alt=“Tweet Translation”></a><br/>	
 </p>
 ## Contributing
 
