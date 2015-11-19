@@ -8,8 +8,7 @@ The social media explorer backend is meant to be used in conjunction with the fr
 ## Dependencies
 - Spark 1.2
 - Anaconda Python 
-- Nvidia DIGITS
-- 
+- NVIDIA DIGITS
 
 ## Screenshots
 
