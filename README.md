@@ -1,15 +1,14 @@
 # Social Media Explorer
 
 ## About
-The social media explorer backend is meant to be used in conjunction with the front end user interface project (https://github.com/ngageoint/imageclusterer-ui). 
+The social media explorer backend is meant to be used in conjunction with the front end user interface project (https://github.com/ngageoint/social-media-explorer-ui). 
 
 ## The Software 
 
 ## Dependencies
 - Spark 1.2
 - Anaconda Python 
-- Nvidia DIGITS
-- 
+- NVIDIA DIGITS
 
 ## Screenshots
 
