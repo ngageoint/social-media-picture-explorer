@@ -4,7 +4,7 @@
 
 ## What it Does
 
-Analysts were having difficulty navigating some of the language barriers of social media and finding relevant tweets. The Social Media Explorer allows analysts to explore social media by using state of the art machine learning techniques to cluster similar images and provide automatic object recognition. By allowing the analysts to navigate social media via visual similarity, we give another tool to analyze social media without need for specialized language skills. 
+The Social Media Explorer allows users to explore social media by using state of the art machine learning techniques to cluster similar images and provide automatic object recognition. By allowing users to navigate social media via visual similarity, we give another tool to examine social media to ease sifting through large amounts of data without the need for specialized language skills. 
 
 ## About
 The social media explorer backend is meant to be used in conjunction with the front end user interface project (https://github.com/ngageoint/social-media-explorer-ui). 
