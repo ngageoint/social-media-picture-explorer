@@ -23,7 +23,7 @@ The social media explorer backend is meant to be used in conjunction with the fr
 
 ![Mapping Image Cluster](https://github.com/ngageoint/social-media-explorer/blob/master/screenshots/Mapping%20Georeferenced%20Images.png)
 
-![Tank Classification of Images](https://github.com/ngageoint/social-media-explorer/blob/master/screenshots/Tank%20Social%20Media%20Example.png)
+![Classification of Images](https://github.com/ngageoint/social-media-explorer/blob/master/screenshots/Labeled%20Social%20Media%20Example.png)
 
 ![Translation of Tweets](https://github.com/ngageoint/social-media-explorer/blob/master/screenshots/Utilizing%20Translation%20of%20Tweets.png)
 
