@@ -21,11 +21,11 @@ The social media explorer backend is meant to be used in conjunction with the fr
 
 ![Image Clustering](https://github.com/ngageoint/social-media-explorer/blob/master/screenshots/3D%20Deep%20Feature%20Clustering.png)
 
-![Mapping Image Cluster](https://raw.githubusercontent.com/ngageoint/social-media-explorer/master/screenshots/Mapping%20Georeferenced%20Images.png?token=AG5Zcc_afj-PXfvXPC_KFy7Ll0RqerF7ks5WVLNpwA%3D%3D)
+![Mapping Image Cluster](https://github.com/ngageoint/social-media-explorer/blob/master/screenshots/Mapping%20Georeferenced%20Images.png)
 
-![Tank Classification of Images](https://raw.githubusercontent.com/ngageoint/social-media-explorer/master/screenshots/Tank%20Social%20Media%20Example.png?token=AG5ZcWKByfDVpZexSd1bZeNK5V4aU1E2ks5WVLOJwA%3D%3D)
+![Tank Classification of Images](https://github.com/ngageoint/social-media-explorer/blob/master/screenshots/Tank%20Social%20Media%20Example.png)
 
-![Translation of Tweets](https://raw.githubusercontent.com/ngageoint/social-media-explorer/master/screenshots/Utilizing%20Translation%20of%20Tweets.png?token=AG5ZcWsHZgTqcUDGpgilunUfLR9HxSnXks5WVLPUwA%3D%3D)
+![Translation of Tweets](https://github.com/ngageoint/social-media-explorer/blob/master/screenshots/Utilizing%20Translation%20of%20Tweets.png)
 
 ## Contributing
 
