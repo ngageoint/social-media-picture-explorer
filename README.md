@@ -19,7 +19,7 @@ The social media explorer backend is meant to be used in conjunction with the fr
 
 ## Screenshots
 
-![Image Clustering](https://raw.githubusercontent.com/ngageoint/social-media-explorer/master/screenshots/3D%20Deep%20Feature%20Clustering.png?token=AG5ZcachjlCQF4Z9ThN6AtRHGOdfZlvwks5WVLMuwA%3D%3D)
+![Image Clustering](https://github.com/ngageoint/social-media-explorer/blob/master/screenshots/3D%20Deep%20Feature%20Clustering.png)
 
 ![Mapping Image Cluster](https://raw.githubusercontent.com/ngageoint/social-media-explorer/master/screenshots/Mapping%20Georeferenced%20Images.png?token=AG5Zcc_afj-PXfvXPC_KFy7Ll0RqerF7ks5WVLNpwA%3D%3D)
 
