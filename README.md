@@ -1,14 +1,14 @@
-# Social Media Explorer
+# Social Media Picture Explorer
 
 
 
 ## What it Does
 
-The Social Media Explorer allows users to explore social media by using state of the art machine learning techniques to cluster similar images and provide automatic object recognition. This allows users to navigate social media and attached pictures via visual similarity to ease sifting through large amounts of graphical data without the need for specialized language skills for meta-text descriptions. 
+The Social Media Picture Explorer allows users to explore social media by using state of the art machine learning techniques to cluster similar images and provide automatic object recognition. This allows users to navigate social media and attached pictures via visual similarity to ease sifting through large amounts of graphical data without the need for specialized language skills for meta-text descriptions. 
 
 
 ## About
-The social media explorer backend is meant to be used in conjunction with the front end user interface project (https://github.com/ngageoint/social-media-explorer-ui). 
+The social media picture explorer backend is meant to be used in conjunction with the front end user interface project (https://github.com/ngageoint/social-media-explorer-ui). 
 
 ## The Software 
 
