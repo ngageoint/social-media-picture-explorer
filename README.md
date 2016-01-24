@@ -10,8 +10,6 @@ The Social Media Picture Explorer allows users to explore social media by using 
 ### About
 The social media picture explorer backend is meant to be used in conjunction with the front end user interface project (https://github.com/ngageoint/social-media-picture-explorer-ui). 
 
-### The Software 
-
 ### Dependencies
 - Spark 1.2
 - Anaconda Python 
