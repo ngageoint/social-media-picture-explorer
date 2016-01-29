@@ -1,4 +1,4 @@
-This notice lists all license stipulations from dependencies used in Social Media Picture Explorer.
+This notice lists all license stipulations from dependencies outside of major OSI and FSF reviewed licenses. 
 
 AngularJS Dropdown Multiselect 
 Unspecified license at https://github.com/dotansimha/angularjs-dropdown-multiselect
